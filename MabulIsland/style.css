@@ -1,0 +1,124 @@
+﻿body {
+    height: 100vh;
+    background-color: #E3E5E0;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    letter-spacing: 0.5px;
+    line-height: 140%;
+    font-family: 'Times New Roman', Times, serif;
+    color: #484B52;
+}
+
+.header {
+    margin-top: -1%;
+    text-align: center;
+    padding: 0.15%;
+    background: white;
+}
+
+.menuBtn {
+    border: 3px solid #484B52;
+    color: #484B52;
+    font-size: large;
+    font-weight: 800;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    position: absolute;
+    right: 15px;
+    top: 12px;
+    width: 7%;
+}
+
+    .menuBtn:hover, .menuBtn:active {
+        background-color: #484B52;
+        color: white;
+    }
+
+.intro {
+    padding: 5px 40px;
+    text-align: justify;
+    font-size: 18px;
+}
+
+.Mabul-intro {
+    position: relative;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    text-align: center;
+    border-style: groove;
+    background-color: white;
+}
+
+.linkBtns {
+    position: relative;
+    background-color: white;
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+
+.goUpbtn {
+    position: relative;
+    bottom: 100px;
+    left: -80px;
+    float: right;
+}
+
+.cont {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 59%;
+    padding: 20px 50px;
+    background: white;
+    font-size: 18px;
+}
+
+.buttons {
+    display: block;
+    padding-right: 17.2%;
+    float: right;
+}
+
+.dropdownlist {
+    display: block;
+    float: right;
+}
+
+.stylink {
+    font-size: 22px;
+    text-align: center;
+    color: #858583;
+}
+
+    .stylink:hover {
+        color: #3B3535;
+    }
+
+.tables {
+    margin: auto;
+}
+
+.imgActivities {
+    width: 400px;
+    height: 400px;
+}
+
+ul {
+    text-align: justify;
+    font-size: 17px;
+}
+
+.cont_acty {
+    text-align: center;
+}
+
+.footer {
+    background-color: white;
+    text-align: center;
+    padding: 0.15%;
+}
