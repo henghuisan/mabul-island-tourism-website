@@ -6,18 +6,14 @@
 
 - [💻 Tech Stack](#tech-stack)
 - [🛠️ Quick Start](#quick-start)
-- [🖼️ Project Screenshots](#project-screenshots)
-
-<br />
+- [🖼️ Project Screenshots](#project-screenshots) <br />
 
 ## 💻 Tech Stack
 
 - **Visual Studio 2019** : Primary development tool
 - **C#** : Server-side scripting
 - **HTML & CSS** : Client-side scripting
-- **Canva** : Component design
-
-<br />
+- **Canva** : Component design <br />
 
 ## 🛠️ Quick Start
 
