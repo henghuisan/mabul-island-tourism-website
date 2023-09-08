@@ -33,6 +33,8 @@ Open the project folder and click on `MabulIsland.sln`
 
 After you've been directed to Visual Studio, you can proceed to run the application.
 
+<br />
+
 ## 🖼️ Project Screenshots
 
 ### 1. Homepage
